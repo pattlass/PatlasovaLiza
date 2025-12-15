@@ -1,12 +1,13 @@
 #include <iostream>
 using namespace std;
 int main() {
+	//hello
 	setlocale(0, "");
 	int x, y;
-	cout << "Введите два целых числа через пробел: ";
+	cout << "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ: ";
 	cin >> x >> y;
 
 	int sum = x + y; 
-	cout << "Сумма: " << sum << endl;
+	cout << "пїЅпїЅпїЅпїЅпїЅ: " << sum << endl;
 	return 0;
 }
